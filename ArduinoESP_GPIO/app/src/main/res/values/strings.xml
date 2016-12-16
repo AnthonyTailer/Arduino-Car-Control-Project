@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ESP-01 GPIO CONTROL</string>
+    <string name="action_settings">Settings</string>
+</resources>
